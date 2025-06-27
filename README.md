@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00FFFF&center=true&vCenter=true&width=450&lines=Welcome+to+My+Tech+Zone;ไฟวิบวับ+แนว+Cyberpunk;Arduino+%26+HTML+Dev" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00FFFF&center=true&vCenter=true&width=450&lines=Welcome+to+My+Tech+Zone;Arduino+%26+HTML+Dev" />
 </p>
 
 <p align="center">
